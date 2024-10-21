@@ -1,0 +1,164 @@
+--------------------------------------------
+Project data validation.
+--------------------------------------------
+Project Name  : WP353_02.dpr
+Log file Created on:Thursday,  17.10.2024 - 16:19
+
+A. Duplicate Object ID - Fix details.
+--------------------------------------------
+   None.
+
+
+B. Empty Text Objects - Fix details.
+--------------------------------------------
+   None.
+
+
+C. Field Objects - Numeric base fix details.
+--------------------------------------------
+   None.
+
+
+D. Alarm Colors - Fix details.
+--------------------------------------------
+   None.
+
+
+F. Field Objects - Min/Max /Scaling fix details.
+--------------------------------------------
+   None.
+
+
+H. Field Objects - Dataformat fix details.
+--------------------------------------------
+   Page No:  15 Field Ob at Row:12 Col:30
+   Page No:  15 Field Ob at Row:14 Col:30
+   Page No:  15 Field Ob at Row:16 Col:30
+   Page No:  15 Field Ob at Row:18 Col:30
+   Page No:  15 Field Ob at Row:21 Col:30
+   Page No:  15 Field Ob at Row:21 Col:50
+   Page No:  20 Field Ob at Row:17 Col:54
+   Page No:  20 Field Ob at Row:19 Col:24
+   Page No:  20 Field Ob at Row:19 Col:54
+   Page No:  20 Field Ob at Row:21 Col:54
+   Page No:  20 Field Ob at Row:23 Col:65
+   Page No:  20 Field Ob at Row:25 Col:24
+   Page No:  26 Field Ob at Row:17 Col:53
+   Page No:  26 Field Ob at Row:19 Col:24
+   Page No:  26 Field Ob at Row:19 Col:53
+   Page No:  26 Field Ob at Row:21 Col:53
+   Page No:  26 Field Ob at Row:23 Col:66
+   Page No:  26 Field Ob at Row:25 Col:27
+   Page No:  81 Field Ob at Row:11 Col:11
+   Page No:  81 Field Ob at Row:11 Col:29
+   Page No:  81 Field Ob at Row:11 Col:47
+   Page No:  81 Field Ob at Row:11 Col:73
+   Page No:  81 Field Ob at Row:13 Col:11
+   Page No:  81 Field Ob at Row:13 Col:29
+   Page No:  81 Field Ob at Row:13 Col:47
+   Page No:  81 Field Ob at Row:13 Col:73
+   Page No:  81 Field Ob at Row:23 Col:57
+   Page No:  81 Field Ob at Row:25 Col:57
+   Page No:  82 Field Ob at Row:11 Col:11
+   Page No:  82 Field Ob at Row:11 Col:29
+   Page No:  82 Field Ob at Row:11 Col:47
+   Page No:  82 Field Ob at Row:11 Col:73
+   Page No:  82 Field Ob at Row:13 Col:11
+   Page No:  82 Field Ob at Row:13 Col:29
+   Page No:  82 Field Ob at Row:13 Col:47
+   Page No:  82 Field Ob at Row:13 Col:73
+   Page No:  82 Field Ob at Row:23 Col:57
+   Page No:  82 Field Ob at Row:25 Col:57
+   Page No:  83 Field Ob at Row:11 Col:11
+   Page No:  83 Field Ob at Row:11 Col:29
+   Page No:  83 Field Ob at Row:11 Col:47
+   Page No:  83 Field Ob at Row:11 Col:73
+   Page No:  83 Field Ob at Row:13 Col:11
+   Page No:  83 Field Ob at Row:13 Col:29
+   Page No:  83 Field Ob at Row:13 Col:47
+   Page No:  83 Field Ob at Row:13 Col:73
+   Page No:  83 Field Ob at Row:23 Col:57
+   Page No:  83 Field Ob at Row:25 Col:57
+   Page No:  84 Field Ob at Row:11 Col:11
+   Page No:  84 Field Ob at Row:11 Col:29
+   Page No:  84 Field Ob at Row:11 Col:47
+   Page No:  84 Field Ob at Row:11 Col:73
+   Page No:  84 Field Ob at Row:13 Col:11
+   Page No:  84 Field Ob at Row:13 Col:29
+   Page No:  84 Field Ob at Row:13 Col:47
+   Page No:  84 Field Ob at Row:13 Col:73
+   Page No:  84 Field Ob at Row:23 Col:57
+   Page No:  84 Field Ob at Row:25 Col:57
+   Page No:  96 Field Ob at Row: 8 Col:26
+   Page No:  96 Field Ob at Row: 8 Col:38
+   Page No:  96 Field Ob at Row: 8 Col:50
+   Page No:  96 Field Ob at Row: 8 Col:62
+   Page No:  96 Field Ob at Row: 9 Col:26
+   Page No:  96 Field Ob at Row: 9 Col:38
+   Page No:  96 Field Ob at Row: 9 Col:50
+   Page No:  96 Field Ob at Row: 9 Col:62
+   Page No:  96 Field Ob at Row:10 Col:26
+   Page No:  96 Field Ob at Row:10 Col:38
+   Page No:  96 Field Ob at Row:10 Col:50
+   Page No:  96 Field Ob at Row:10 Col:62
+   Page No:  96 Field Ob at Row:11 Col:26
+   Page No:  96 Field Ob at Row:11 Col:38
+   Page No:  96 Field Ob at Row:11 Col:50
+   Page No:  96 Field Ob at Row:11 Col:62
+   Page No:  96 Field Ob at Row:12 Col:26
+   Page No:  96 Field Ob at Row:12 Col:38
+   Page No:  96 Field Ob at Row:12 Col:50
+   Page No:  96 Field Ob at Row:12 Col:62
+   Page No:  96 Field Ob at Row:13 Col:26
+   Page No:  96 Field Ob at Row:13 Col:38
+   Page No:  96 Field Ob at Row:13 Col:50
+   Page No:  96 Field Ob at Row:13 Col:62
+   Page No:  96 Field Ob at Row:14 Col:26
+   Page No:  96 Field Ob at Row:14 Col:38
+   Page No:  96 Field Ob at Row:14 Col:50
+   Page No:  96 Field Ob at Row:14 Col:62
+   Page No:  96 Field Ob at Row:15 Col:26
+   Page No:  96 Field Ob at Row:15 Col:38
+   Page No:  96 Field Ob at Row:15 Col:50
+   Page No:  96 Field Ob at Row:15 Col:62
+   Page No:  96 Field Ob at Row:16 Col:26
+   Page No:  96 Field Ob at Row:16 Col:38
+   Page No:  96 Field Ob at Row:16 Col:50
+   Page No:  96 Field Ob at Row:16 Col:62
+   Page No:  96 Field Ob at Row:17 Col:26
+   Page No:  96 Field Ob at Row:17 Col:38
+   Page No:  96 Field Ob at Row:17 Col:50
+   Page No:  96 Field Ob at Row:17 Col:62
+   Page No:  99 Field Ob at Row: 9 Col:41
+   Page No:  99 Field Ob at Row:11 Col:41
+   Page No:  99 Field Ob at Row:13 Col:41
+   Page No:  99 Field Ob at Row:15 Col:41
+   Page No:  99 Field Ob at Row:18 Col:41
+
+
+I. Index Field Objects - Scale values fix details.
+--------------------------------------------
+   None.
+
+
+J. Touch cell objects - Invalid Height - Error details.!!!.
+--------------------------------------------
+   Please Resize the height of following touch cells.
+   Touch cells with UniOP Font must meet minimum height requirements.(SwitchTC - 3 Rows. All OtherTC - 2 Rows.)
+
+   None.
+
+
+K. Field Objects - ExtraAddressElem2 fix details.
+--------------------------------------------
+   None.
+
+
+L. Field Objects - Precision fix details.
+--------------------------------------------
+   None.
+
+
+--------------------------------------------
+
+
